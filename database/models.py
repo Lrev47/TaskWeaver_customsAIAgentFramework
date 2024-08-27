@@ -4,7 +4,7 @@
 ## Introduction
 This document provides step-by-step instructions for setting up the **AgentHiveMind** framework. These instructions cover environment setup, dependencies installation, database configuration, running the application, and deployment considerations. By following these instructions, you'll have a fully functional AgentHiveMind system up and running.
 
----
+--
 
 ## Prerequisites
 

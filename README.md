@@ -1,4 +1,4 @@
-# AgentHiveMind
+# TaskWeaver
 
 AgentHiveMind is a modular and scalable AI agent framework that breaks down complex workflows into smaller, manageable tasks. Each agent specializes in a single task and collaborates with other agents to achieve the desired outcome.
 
