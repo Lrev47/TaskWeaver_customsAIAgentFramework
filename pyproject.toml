@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "agent-hivemind"
+version = "0.1.0"
+description = "A modular and scalable AI agent framework."
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.75.1"
+uvicorn = "^0.17.0"
+prisma = "^0.5.1"
+sqlalchemy = "^1.4.27"
+httpx = "^0.21.1"
+pytest = "^7.0.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.1.0"
+flake8 = "^4.0.1"
+pytest-asyncio = "^0.16.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
